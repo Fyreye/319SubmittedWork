@@ -1,0 +1,38 @@
+<?php
+	session_start();
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>319Chan Login</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<script src="login.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-4 col-md-4">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<h3>Welcome to 319Chan</h3>
+						<div><p class="text-warning" id="message"></p></div>
+						<label>Username
+							<input type="text" id="username">
+						</label>
+						<label>Password
+							<input type="password" id="password">
+						</label>
+						<button class="btn btn-lg btn-primary btn-block">Login</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>

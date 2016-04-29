@@ -1,0 +1,5 @@
+"Don Bluth's Anasasia is frequently confused for a Disney Princess, however, this classic Disney film features a character with the same name.": "Cinderella":"Category 1<br>Heroines"
+"Bastion was the original concept name for this Disney hero but was later changed." : "Flynn Rider":"Category 2<br>Heros"
+"E.V.E. is the sleek and futuristic counterpart to the lead of this Pixar film." : "WALL-E":"Category 3<br>Pixar"
+"Name this little tuxedo kitten from Pinocchio." : "Figaro":"Category 4<br>Cats"
+"The ship in Disney's 2002 film Treasure Planet is named this":"The R.L.S. Legacy":"Final Question"
