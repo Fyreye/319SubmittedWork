@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title>Jeopardy</title>
+	<link rel="stylesheet" type="text/css" href="css.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-route.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+	<script src="spectatorApp.js"></script>
+</head>
+<body ng-app="myApp" >
+
+	<h1>Welcome to the Jeopardy</h1>
+	<div ng-view></div>
+
+	<div ng-controller='playerController'>
+		<table>
+			<tr> <th>Player</th> <th>Score</th> </tr>
+			<tr ng-repeat="player in players">
+				<th>{{player.name}}</th>
+				<td>{{player.score}}</td>
+			</tr>
+		</table>
+	</div>
+	
+</body>
+
+</html>

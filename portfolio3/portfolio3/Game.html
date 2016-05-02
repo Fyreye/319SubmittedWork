@@ -1,0 +1,11 @@
+	<div ng-controller="buzz">
+		<button class="btn btn-primary" ng-click="buzz()">Buzz In</button>
+	</div>
+		
+	<div ng-controller="playerController">
+		<table>
+			<tr ng-repeat="player in players">
+				<th>{{player.name}}</th><td>{{player.score}}</td>
+			</tr>
+		</table>
+	</div>

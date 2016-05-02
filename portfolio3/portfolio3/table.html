@@ -1,0 +1,10 @@
+<div ng-controller="myController">
+	<table>
+  		<tr ng-repeat="category in categories" style="width:75%" border="1">
+			<th>{{category.name}}</th>
+			<td ng-repeat="answer in category.Questions">
+				<a href="#/question/{{answer.value}}/{{category.name}}" style="visibility: {{answer.status}}">{{answer.value}} </a>
+			</td>
+  		</tr>
+	</table>
+</div>

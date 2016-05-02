@@ -1,0 +1,172 @@
+{
+	"Let's Talk About \"sex\"": {
+		"name": "Let's Talk About \"sex\"",
+		"Questions": [{
+			"value": 200,
+			"status": "none",
+			"question": "Half a dozen born at the same time",
+			"answer": "sextuplets",
+			"DD": false
+		}, {
+			"value": 400,
+			"status": "none",
+			"question": "Someone over the age of 59 but not yet 70",
+			"answer": "a sexagenarian",
+			"DD": false
+		}, {
+			"value": 600,
+			"status": "none",
+			"question": "Some think a box  on a Pacific atoll in 1940 contained one of these navigational aids belonging to Amelia Earhaart",
+			"answer": "a sextant",
+			"DD": false
+		}, {
+			"value": 800,
+			"status": "none",
+			"question": "A Mae West movie title, or one type of musical combo",
+			"answer": "a sextet",
+			"DD": false
+		}, {
+			"value": 1000,
+			"status": "none",
+			"question": "This person is in charge of the holy objects of a church",
+			"answer": "the sexton",
+			"DD": false
+		}]
+	},
+	"The Immortals": {
+		"name": "The Immortals",
+		"Questions": [{
+			"value": 200,
+			"status": "none",
+			"question": "This J.M. Barrie character was \"the boy who wouldn't grow up\"",
+			"answer": "Peter Pan",
+			"DD": false
+		}, {
+			"value": 400,
+			"status": "none",
+			"question": "If he really was the historic figure he's linked with, this character introduced in an 1897 novel would be 581",
+			"answer": "Dracula",
+			"DD": false
+		}, {
+			"value": 600,
+			"status": "none",
+			"question": "In this film Indiana Jones meets a knight who's guarding a chalice that grants eternal life",
+			"answer": "Indiana Jones & the Last Crusade",
+			"DD": false
+		}, {
+			"value": 800,
+			"status": "none",
+			"question": "In \"L.O.T.R.\", this half-elf character renounces her eternal life to marry the mortal Aragorn & later dies aged 2,901",
+			"answer": "Arwen",
+			"DD": true
+		}, {
+			"value": 1000,
+			"status": "none",
+			"question": "As this movie immortal, Connor MacLeod is a member of a mysterious race who only sie when their heads are lopped off",
+			"answer": "Highlander",
+			"DD": false
+		}]
+	},
+	"Double M": {
+		"name": "Double M",
+		"Questions": [{
+			"value": 200,
+			"status": "none",
+			"question": "Combustible",
+			"answer": "Flammable",
+			"DD": false
+		}, {
+			"value": 400,
+			"status": "none",
+			"question": "If you look closely, I mean, really, really closely, you'll see there are 6, no, make that 7, of these in the clue",
+			"answer": "commas",
+			"DD": false
+		}, {
+			"value": 600,
+			"status": "none",
+			"question": "A sale of second-hand items, or to paw through them",
+			"answer": "rummage",
+			"DD": false
+		}, {
+			"value": 800,
+			"status": "none",
+			"question": "Not identical on both sides of a central line",
+			"answer": "asymmetrical",
+			"DD": false
+		}, {
+			"value": 1000,
+			"status": "none",
+			"question": "\"Equine\" piece of equipment for male gymnasts",
+			"answer": "a Pommel horse",
+			"DD": false
+		}]
+	},
+	"Mapmaking": {
+		"name": "Mapmaking",
+		"Questions": [{
+			"value": 200,
+			"status": "none",
+			"question": "On a weather map this type of front is usually indicated by a blue line with blue triangles",
+			"answer": "Cold Front",
+			"DD": false
+		}, {
+			"value": 400,
+			"status": "none",
+			"question": "The \"compass\" type of this flower is used on maps to indicate the cardinal directions",
+			"answer": "A Rose",
+			"DD": false
+		}, {
+			"value": 600,
+			"status": "none",
+			"question": "On a topographic map. contour lines join points of equal this",
+			"answer": "altitude (or elevation)",
+			"DD": false
+		}, {
+			"value": 800,
+			"status": "none",
+			"question": "Greenland is much smaller than South America, but scale is distorted on this type of map named for a 16th century Flemming, so the farther away from the equator you get the larger the distortion",
+			"answer": "Mercator",
+			"DD": true
+		}, {
+			"value": 1000,
+			"status": "none",
+			"question": "Isohyets are lines that join places that have equal this for a given period",
+			"answer": "rain (or precipitation)",
+			"DD": false
+		}]
+	},
+	"Hobbits' other roles": {
+		"name": "Hobbits' other roles",
+		"Questions": [{
+			"value": 200,
+			"status": "none",
+			"question": "Sean Astin (Sam) played this title guy, the last player carried off the field by his Notre Dame teamates",
+			"answer": "Rudy",
+			"DD": false
+		}, {
+			"value": 400,
+			"status": "none",
+			"question": "Dominic Monaghan (Merry) found the part of Charlie on this ABC drama",
+			"answer": "Lost",
+			"DD": false
+		}, {
+			"value": 600,
+			"status": "none",
+			"question": "Billy Boyd (Pippin) served as Russell Crowe's coxswain in this period piece",
+			"answer": "Master and Commander",
+			"DD": false
+		}, {
+			"value": 800,
+			"status": "none",
+			"question": "You may remember that Ian Holm (Bilbo) portrayed the complicated android Ash in this Ridley Scott film",
+			"answer": "Alien",
+			"DD": false
+		}, {
+			"value": 1000,
+			"status": "none",
+			"question": "Mickey Rourke finds a dastardly way to kill Elijah Wood (Frodo) in this \"urban\" movie",
+			"answer": "Sin City",
+			"DD": false
+		}]
+	}
+}
